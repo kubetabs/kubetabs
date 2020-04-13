@@ -1,0 +1,8 @@
+.idea
+static/uploadfile
+main.exe
+kubetabs
+temp/
+!temp
+vendor
+config/settings.dev.yml
